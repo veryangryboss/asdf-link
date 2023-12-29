@@ -32,13 +32,13 @@ tool you will be selecting versions for. Say `jdk`, `perl`, `android`, etc.
 ```shell
 ## READ above before copy-paste this line
 # You can execute this as many times as you want with different names
-$ asdf plugin-add NAME https://github.com/vic/asdf-link.git
+$ asdf plugin-add NAME https://github.com/veryangryboss/asdf-link.git
 ```
 
 This can be anything, from now on, these examples will be for `jdk`.
 
 ```shell
-$ asdf plugin-add jdk https://github.com/vic/asdf-link.git
+$ asdf plugin-add jdk https://github.com/veryangryboss/asdf-link.git
 ```
 
 ## Usage
